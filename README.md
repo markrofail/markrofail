@@ -1,16 +1,17 @@
-### Hi there 👋
+![](assets/imgs/Logo.png)
 
-<!--
-**markrofail/markrofail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+![django](https://img.shields.io/static/v1?label=&message=Django&color=blue)
+![reactjs](https://img.shields.io/static/v1?label=&message=ReactJS&color=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## List of Projects
+
+### Django
+
+- [Bus Booking System](https://github.com/markrofail/bus-booking-system) API built using restframework
+
+### ReactJS
+
+- [Todo App](https://github.com/markrofail/reactjs-todoapp) basic React technology and hooks
+- [Fama: Posts App](https://github.com/markrofail/reactjs-fama) intro to React Redux
