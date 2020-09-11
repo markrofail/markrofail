@@ -1,4 +1,4 @@
-![](assets/imgs/Logo.png)
+![](https://raw.githubusercontent.com/markrofail/markrofail/main/assets/imgs/Logo.png)
 
 ## Skills
 
