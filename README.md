@@ -1,45 +1,35 @@
-<h3>Hello! 👋</h3>
+![markrofail's GitHub image](https://github-business-card.vercel.app/api/github?username=markrofail&dark)
 
-<br/>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Daniel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=markrofail&show_icons=true&include_all_commits=true&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Daniel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markrofail&layout=compact&theme=buefy" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- Intro -->
-<p>
-    <strong>I'm Mark Rofail (markrofail)</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/imgs/avatar.png" alt="avatar" width="32" height="32" /><br/>
-    <strong>Software Development Engineer @Amazon</strong>&nbsp;&nbsp;&nbsp;<img src="./assets/imgs/job.png" alt="job" width="32" height="32" /><br/>
-</p>
-<strong><a href="https://github.com/markrofail/resume-generator/blob/main/output/markrofail-cv.pdf">About me</a></strong><br/>
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=markrofail)](https://git.io/streak-stats) |
+| -------------------------------------------------------------------------------------------------- |
 
-<br/>
+**Languages and Tools**
 
-<!-- Tech Background -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
-<strong>Languages</strong>
+**Contact**
+[👔 LinkedIn](https://linkedin.com/in/markrofail)
 
-<p> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="32" height="32"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="32" height="32"> 
-</p>
+[![MarkRofail StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/6205813)](https://stackoverflow.com/users/6205813/mark-rofail)
 
-<strong>Frameworks</strong>
-
-<p> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="32" height="32"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="32" height="32"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="32" height="32"/> 
-</p>
-
-<strong>Testing</strong>
-
-<p> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="32" height="32"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="32" height="32"/> 
-</p>
-
-<!-- <img src="https://komarev.com/ghpvc/?username=markrof&color=9f7b3d&style=flat-square&label=visits" />   -->
-<!-- <img src="https://img.shields.io/github/stars/markrof?color=%239f7b3d&label=total%20stars&style=flat-square" /> -->
-
-<br/>
-
-![](https://hit.yhype.me/github/profile?user_id=15761271)
+![Visits](https://visitor-badge.glitch.me/badge?page_id=markrofail.visitor-badge&left_text=Visits)
